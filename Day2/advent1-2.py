@@ -38,9 +38,4 @@ with open(path, "r") as file:
         sum += (int(red[0]) * int(green[0]) * int(blue[0]))
     
     print(sum)
-file.close()
-
-
-
-
-    
+file.close() 
