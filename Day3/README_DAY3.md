@@ -1,7 +1,8 @@
 #For part 1 I struggled and had to leverage youtube to solve.  This is not my solution, but I am studying it to understand how it works.  Thanks to https://www.youtube.com/@hyper-neutrino for the solution found at 
 https://www.youtube.com/watch?v=ZFGX5D9mi-4
 
-#For part 2 I have not started yet but will try it before leveraging the video.  It may help solidify my understanding to the solution for part 2
+#For part 2 I have not started yet but will try it before leveraging the video.  It may help solidify my understanding to the solution for part 2 
+##I needed help with part 2 as well.  Will keep studying until I understand it
 
 
 --- Day 3: Gear Ratios ---
